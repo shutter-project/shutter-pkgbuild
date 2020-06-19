@@ -41,7 +41,7 @@ pkgbase = shutter-git
 	optdepends = bc: 3D Rotate and 3D Reflection plugins support
 	optdepends = perl-webservice-gyazo-b: Gyazo upload support
 	conflicts = shutter
-	source = shutter::git+https://github.com/DarthGandalf/shutter.git
+	source = shutter::git+https://github.com/shutter-project/shutter.git
 	md5sums = SKIP
 
 pkgname = shutter-git

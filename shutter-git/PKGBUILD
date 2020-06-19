@@ -30,7 +30,7 @@ optdepends=('gnome-web-photo: web screenshot support'
 		'perl-net-oauth: Imgur and Dropbox upload support'
 		'bc: 3D Rotate and 3D Reflection plugins support'
 		'perl-webservice-gyazo-b: Gyazo upload support')
-source=('shutter::git+https://github.com/DarthGandalf/shutter.git')
+source=('shutter::git+https://github.com/shutter-project/shutter.git')
 md5sums=('SKIP')
 
 pkgver() {
