@@ -1,6 +1,6 @@
 pkgbase = shutter-git
 	pkgdesc = A featureful screenshot tool (formerly gscrot)
-	pkgver = r1448.91c15c88
+	pkgver = r1449.9c086723
 	pkgrel = 1
 	url = http://shutter-project.org/
 	arch = any
